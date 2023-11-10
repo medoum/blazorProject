@@ -1,0 +1,12 @@
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/bin/Debug/net7.0/App2Blazor.Shared.deps.json
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/bin/Debug/net7.0/App2Blazor.Shared.dll
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/bin/Debug/net7.0/App2Blazor.Shared.pdb
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/App2Blazor.Shared.csproj.AssemblyReference.cache
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/App2Blazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/App2Blazor.Shared.AssemblyInfoInputs.cache
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/App2Blazor.Shared.AssemblyInfo.cs
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/App2Blazor.Shared.csproj.CoreCompileInputs.cache
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/App2Blazor.Shared.dll
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/refint/App2Blazor.Shared.dll
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/App2Blazor.Shared.pdb
+/Users/mohamed/Projects/App2Blazor/App2Blazor/Shared/obj/Debug/net7.0/ref/App2Blazor.Shared.dll

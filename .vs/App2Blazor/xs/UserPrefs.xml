@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9F9F6C35-8D3D-4682-82BB-7B4E1E9FF375}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App2Blazor.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App2Blazor/Server/Controllers/SuperHeroController.cs">
+    <Files>
+      <File FileName="App2Blazor/Client/Pages/FetchData.razor" Line="16" Column="2" />
+      <File FileName="App2Blazor/Shared/SuperHero.cs" Line="16" Column="41" />
+      <File FileName="App2Blazor/Shared/Comic.cs" Line="12" Column="1" />
+      <File FileName="App2Blazor/Server/Controllers/SuperHeroController.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App2Blazor" expanded="True">
+            <Node name="App2Blazor.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="App2Blazor.Server" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SuperHeroController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="App2Blazor.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
